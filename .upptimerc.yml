@@ -3,44 +3,22 @@ owner: RavelloH
 repo: sitemonitor # The name of this repository
 
 sites:
-
   - name: GithubSite
-
     url: https://ravelloh.github.io
-
   - name: GiteeSite
-
     url: https://ravelloh.gitee.io
-
   - name: JsSite
-
     url: https://ravelloh.js.org
-
   - name: CNAME
-
     url: https://ravello-h.github.io
-
   - name: StudioSite 
-
     url: https://xeocnet-studio.github.io
 
 status-website:
-
   baseUrl: /sitemonitor
-
   name: Upptime
-
-  introTitle: "**SiteMonitor** is running."
-
-  introMessage: "Monitoring stations: 5 in total, running every 5 minutes."
-
   navbar:
-
     - title: State
-
       href: /
-
     - title: GitHub
-
       href: https://github.com/$OWNER/$REPO
-
