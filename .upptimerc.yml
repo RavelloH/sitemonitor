@@ -9,6 +9,10 @@ sites:
     url: https://ravelloh.gitee.io
   - name: JsSite
     url: https://ravelloh.js.org
+  - name: TestSite
+    url: http://web1671.hao321.ml
+  - name: TencentSite
+    url: https://website-0ggrccba61ac6225-1304791521.tcloudbaseapp.com
   - name: CNAME
     url: https://ravello-h.github.io
   - name: StudioSite 
