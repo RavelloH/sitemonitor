@@ -88,9 +88,9 @@
     "url": "http://web1671.hao321.ml",
     "icon": "https://favicons.githubusercontent.com/web1671.hao321.ml",
     "slug": "test-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -99,7 +99,9 @@
     "timeWeek": 806,
     "timeMonth": 806,
     "timeYear": 806,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-02": 0
+    }
   },
   {
     "name": "TencentSite",
