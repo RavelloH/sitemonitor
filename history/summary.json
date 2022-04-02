@@ -108,9 +108,9 @@
     "url": "https://website-0ggrccba61ac6225-1304791521.tcloudbaseapp.com",
     "icon": "https://favicons.githubusercontent.com/website-0ggrccba61ac6225-1304791521.tcloudbaseapp.com",
     "slug": "tencent-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -119,7 +119,9 @@
     "timeWeek": 1388,
     "timeMonth": 1388,
     "timeYear": 1388,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-02": 0
+    }
   },
   {
     "name": "CNAME",
