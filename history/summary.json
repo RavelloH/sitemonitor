@@ -115,30 +115,6 @@
     }
   },
   {
-    "name": "TencentSite",
-    "url": "https://website-0ggrccba61ac6225-1304791521.tcloudbaseapp.com",
-    "icon": "https://favicons.githubusercontent.com/website-0ggrccba61ac6225-1304791521.tcloudbaseapp.com",
-    "slug": "tencent-site",
-    "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
-    "time": 1276,
-    "timeDay": 961,
-    "timeWeek": 1185,
-    "timeMonth": 1276,
-    "timeYear": 1276,
-    "dailyMinutesDown": {
-      "2022-04-26": 43,
-      "2022-04-23": 17,
-      "2022-04-10": 31,
-      "2022-04-08": 59,
-      "2022-04-02": 26
-    }
-  },
-  {
     "name": "CNAME",
     "url": "https://ravello-h.github.io",
     "icon": "https://favicons.githubusercontent.com/ravello-h.github.io",
@@ -173,5 +149,61 @@
     "timeMonth": 85,
     "timeYear": 82,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "VercelSiteNo1",
+    "url": "https://ravelloh-ravelloh.vercel.app",
+    "icon": "https://favicons.githubusercontent.com/ravelloh-ravelloh.vercel.app",
+    "slug": "vercel-site-no1",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 26,
+    "timeDay": 26,
+    "timeWeek": 26,
+    "timeMonth": 26,
+    "timeYear": 26,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "VercelSiteNo2",
+    "url": "https://ravelloh.vercel.app",
+    "icon": "https://favicons.githubusercontent.com/ravelloh.vercel.app",
+    "slug": "vercel-site-no2",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 19,
+    "timeDay": 19,
+    "timeWeek": 19,
+    "timeMonth": 19,
+    "timeYear": 19,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "VercelDevSite",
+    "url": "https://ravelloh-p1m2hxads-ravelloh.vercel.app",
+    "icon": "https://favicons.githubusercontent.com/ravelloh-p1m2hxads-ravelloh.vercel.app",
+    "slug": "vercel-dev-site",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 22,
+    "timeDay": 22,
+    "timeWeek": 22,
+    "timeMonth": 22,
+    "timeYear": 22,
+    "dailyMinutesDown": {
+      "2022-04-26": 1
+    }
   }
 ]
