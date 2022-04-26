@@ -11,12 +11,16 @@ sites:
     url: https://ravelloh.js.org
   - name: TestSite
     url: http://web1671.hao321.ml
-  - name: TencentSite
-    url: https://website-0ggrccba61ac6225-1304791521.tcloudbaseapp.com
   - name: CNAME
     url: https://ravello-h.github.io
   - name: StudioSite 
     url: https://xeocnet-studio.github.io
+  - name: VercelSiteNo1
+    url: ravelloh-ravelloh.vercel.app
+  - name: VercelSiteNo2
+    url: ravelloh.vercel.app
+  - name: VercelDevSite
+    url: ravelloh-p1m2hxads-ravelloh.vercel.app
 
 status-website:
   baseUrl: /sitemonitor
