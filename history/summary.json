@@ -24,9 +24,9 @@
     "slug": "gitee-site",
     "status": "up",
     "uptime": "98.32%",
-    "uptimeDay": "89.82%",
-    "uptimeWeek": "95.88%",
-    "uptimeMonth": "97.93%",
+    "uptimeDay": "94.21%",
+    "uptimeWeek": "95.98%",
+    "uptimeMonth": "97.96%",
     "uptimeYear": "98.32%",
     "time": 1601,
     "timeDay": 1803,
@@ -34,7 +34,7 @@
     "timeMonth": 1690,
     "timeYear": 1601,
     "dailyMinutesDown": {
-      "2022-05-17": 145,
+      "2022-05-17": 136,
       "2022-05-16": 27,
       "2022-05-15": 88,
       "2022-05-14": 20,
@@ -133,18 +133,19 @@
     "icon": "https://favicons.githubusercontent.com/ravello-h.github.io",
     "slug": "cname",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "63.01%",
-    "uptimeWeek": "94.72%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "99.58%",
+    "uptime": "99.51%",
+    "uptimeDay": "56.94%",
+    "uptimeWeek": "93.85%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "99.51%",
     "time": 146,
     "timeDay": 134,
     "timeWeek": 116,
     "timeMonth": 144,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2022-05-17": 533
+      "2022-05-18": 52,
+      "2022-05-17": 568
     }
   },
   {
