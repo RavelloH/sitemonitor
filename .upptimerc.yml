@@ -9,8 +9,6 @@ sites:
     url: https://ravelloh.gitee.io
   - name: JsSite
     url: https://ravelloh.js.org
-  - name: TestSite
-    url: http://web1671.hao321.ml
   - name: CNAME
     url: https://ravello-h.github.io
   - name: StudioSite 
