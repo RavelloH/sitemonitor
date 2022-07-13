@@ -173,19 +173,19 @@
     "url": "https://ravelloh-ravelloh.vercel.app",
     "icon": "https://favicons.githubusercontent.com/ravelloh-ravelloh.vercel.app",
     "slug": "vercel-site-no1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 227,
-    "timeWeek": 128,
-    "timeMonth": 153,
-    "timeYear": 153,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 152,
+    "timeDay": 150,
+    "timeWeek": 121,
+    "timeMonth": 151,
+    "timeYear": 152,
     "dailyMinutesDown": {
-      "2022-07-13": 1
+      "2022-07-13": 26
     }
   },
   {
