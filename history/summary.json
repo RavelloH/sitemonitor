@@ -23,18 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/ravelloh.gitee.io",
     "slug": "gitee-site",
     "status": "up",
-    "uptime": "98.79%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "98.79%",
+    "uptime": "98.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "98.80%",
     "time": 1473,
     "timeDay": 1705,
     "timeWeek": 1607,
     "timeMonth": 1292,
     "timeYear": 1473,
     "dailyMinutesDown": {
-      "2022-07-28": 14,
       "2022-07-26": 32,
       "2022-07-25": 22,
       "2022-07-21": 16,
@@ -198,10 +197,10 @@
     "url": "https://ravelloh.vercel.app",
     "icon": "https://favicons.githubusercontent.com/ravelloh.vercel.app",
     "slug": "vercel-site-no2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 173,
@@ -209,16 +208,18 @@
     "timeWeek": 99,
     "timeMonth": 144,
     "timeYear": 173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-28": 1
+    }
   },
   {
     "name": "VercelDevSite",
     "url": "https://ravelloh-p1m2hxads-ravelloh.vercel.app",
     "icon": "https://favicons.githubusercontent.com/ravelloh-p1m2hxads-ravelloh.vercel.app",
     "slug": "vercel-dev-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -227,6 +228,8 @@
     "timeWeek": 91,
     "timeMonth": 123,
     "timeYear": 111,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-28": 0
+    }
   }
 ]
