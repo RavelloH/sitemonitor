@@ -22,12 +22,12 @@
     "url": "https://ravelloh.gitee.io",
     "icon": "https://favicons.githubusercontent.com/ravelloh.gitee.io",
     "slug": "gitee-site",
-    "status": "up",
-    "uptime": "98.83%",
+    "status": "down",
+    "uptime": "98.84%",
     "uptimeDay": "94.89%",
     "uptimeWeek": "97.08%",
     "uptimeMonth": "97.79%",
-    "uptimeYear": "98.83%",
+    "uptimeYear": "98.84%",
     "time": 1435,
     "timeDay": 1015,
     "timeWeek": 1186,
@@ -103,8 +103,7 @@
       "2022-03-19": 98,
       "2022-03-18": 0,
       "2022-03-12": 16,
-      "2022-03-11": 16,
-      "2022-03-09": 25
+      "2022-03-11": 16
     }
   },
   {
