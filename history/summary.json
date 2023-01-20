@@ -108,9 +108,9 @@
     "slug": "js-site",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 215,
     "timeDay": 147,
@@ -118,7 +118,6 @@
     "timeMonth": 150,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2023-01-19": 11,
       "2022-06-30": 34,
       "2022-06-21": 49
     }
@@ -130,9 +129,9 @@
     "slug": "cname",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.90%",
     "time": 192,
     "timeDay": 150,
@@ -140,7 +139,6 @@
     "timeMonth": 145,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2023-01-19": 10,
       "2022-06-30": 34,
       "2022-06-21": 49,
       "2022-05-21": 324,
