@@ -22,18 +22,19 @@
     "url": "https://ravelloh.gitee.io",
     "icon": "https://icons.duckduckgo.com/ip3/ravelloh.gitee.io.ico",
     "slug": "gitee-site",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "92.51%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "98.18%",
     "uptimeWeek": "98.52%",
     "uptimeMonth": "98.94%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 1355,
-    "timeDay": 1245,
+    "timeDay": 982,
     "timeWeek": 1192,
     "timeMonth": 1359,
-    "timeYear": 1353,
+    "timeYear": 1348,
     "dailyMinutesDown": {
+      "2023-02-27": 0,
       "2023-02-26": 107,
       "2023-02-25": 41,
       "2023-02-14": 64,
@@ -94,7 +95,7 @@
       "2022-08-19": 89,
       "2022-08-18": 39,
       "2022-08-17": 69,
-      "2022-08-13": 103
+      "2022-08-13": 67
     }
   },
   {
@@ -124,7 +125,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ravello-h.github.io.ico",
     "slug": "cname",
     "status": "up",
-    "uptime": "99.01%",
+    "uptime": "99.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
