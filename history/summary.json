@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 109,
     "timeDay": 73,
-    "timeWeek": 235,
+    "timeWeek": 254,
     "timeMonth": 141,
     "timeYear": 110,
     "dailyMinutesDown": {}
@@ -24,17 +24,16 @@
     "slug": "gitee-site",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "97.60%",
-    "uptimeMonth": "99.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.63%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "99.42%",
     "time": 1357,
     "timeDay": 1633,
-    "timeWeek": 1336,
+    "timeWeek": 1344,
     "timeMonth": 1212,
     "timeYear": 1352,
     "dailyMinutesDown": {
-      "2023-03-02": 3,
       "2023-02-27": 91,
       "2023-02-26": 107,
       "2023-02-25": 41,
@@ -95,7 +94,7 @@
       "2022-08-20": 15,
       "2022-08-19": 89,
       "2022-08-18": 39,
-      "2022-08-17": 50
+      "2022-08-17": 69
     }
   },
   {
@@ -111,7 +110,7 @@
     "uptimeYear": "99.98%",
     "time": 210,
     "timeDay": 178,
-    "timeWeek": 123,
+    "timeWeek": 122,
     "timeMonth": 157,
     "timeYear": 213,
     "dailyMinutesDown": {
