@@ -22,18 +22,19 @@
     "url": "https://ravelloh.gitee.io",
     "icon": "https://icons.duckduckgo.com/ip3/ravelloh.gitee.io.ico",
     "slug": "gitee-site",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "97.06%",
-    "uptimeYear": "99.42%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "97.13%",
+    "uptimeYear": "99.43%",
     "time": 1348,
     "timeDay": 1115,
     "timeWeek": 1205,
-    "timeMonth": 1306,
+    "timeMonth": 1305,
     "timeYear": 1317,
     "dailyMinutesDown": {
+      "2023-04-10": 0,
       "2023-04-06": 47,
       "2023-04-05": 22,
       "2023-04-04": 18,
@@ -85,8 +86,7 @@
       "2022-10-24": 32,
       "2022-10-21": 35,
       "2022-10-19": 45,
-      "2022-10-18": 21,
-      "2022-10-17": 57
+      "2022-10-18": 21
     }
   },
   {
