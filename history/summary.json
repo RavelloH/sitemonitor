@@ -24,17 +24,17 @@
     "slug": "gitee-site",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "97.15%",
-    "uptimeWeek": "97.39%",
-    "uptimeMonth": "98.90%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "97.51%",
+    "uptimeMonth": "98.93%",
     "uptimeYear": "99.46%",
     "time": 1337,
-    "timeDay": 1815,
+    "timeDay": 1797,
     "timeWeek": 1566,
     "timeMonth": 1336,
     "timeYear": 1283,
     "dailyMinutesDown": {
-      "2023-05-01": 41,
+      "2023-05-01": 28,
       "2023-04-30": 24,
       "2023-04-29": 60,
       "2023-04-28": 84,
@@ -86,7 +86,7 @@
       "2022-11-11": 19,
       "2022-11-10": 48,
       "2022-11-08": 19,
-      "2022-11-07": 68
+      "2022-11-07": 93
     }
   },
   {
@@ -94,18 +94,19 @@
     "url": "https://ravelloh.js.org",
     "icon": "https://icons.duckduckgo.com/ip3/ravelloh.js.org.ico",
     "slug": "js-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 203,
-    "timeDay": 226,
-    "timeWeek": 193,
-    "timeMonth": 155,
+    "time": 202,
+    "timeDay": 135,
+    "timeWeek": 174,
+    "timeMonth": 152,
     "timeYear": 208,
     "dailyMinutesDown": {
+      "2023-05-01": 0,
       "2022-06-30": 34,
       "2022-06-21": 49
     }
