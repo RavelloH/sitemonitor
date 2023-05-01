@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ravelloh.gitee.io.ico",
     "slug": "gitee-site",
     "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "97.45%",
-    "uptimeWeek": "97.67%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "99.46%",
+    "uptime": "99.53%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "99.44%",
     "time": 1331,
     "timeDay": 1264,
     "timeWeek": 1446,
     "timeMonth": 1273,
     "timeYear": 1279,
     "dailyMinutesDown": {
-      "2023-04-30": 37,
+      "2023-04-30": 24,
       "2023-04-29": 60,
       "2023-04-28": 84,
       "2023-04-26": 55,
@@ -85,7 +85,8 @@
       "2022-11-11": 19,
       "2022-11-10": 48,
       "2022-11-08": 19,
-      "2022-11-07": 93
+      "2022-11-07": 93,
+      "2022-11-03": 102
     }
   },
   {
@@ -102,7 +103,7 @@
     "time": 203,
     "timeDay": 226,
     "timeWeek": 193,
-    "timeMonth": 156,
+    "timeMonth": 155,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2022-06-30": 34,
@@ -123,7 +124,7 @@
     "time": 179,
     "timeDay": 138,
     "timeWeek": 80,
-    "timeMonth": 111,
+    "timeMonth": 110,
     "timeYear": 185,
     "dailyMinutesDown": {
       "2022-06-30": 34,
@@ -149,7 +150,7 @@
     "time": 107,
     "timeDay": 318,
     "timeWeek": 84,
-    "timeMonth": 140,
+    "timeMonth": 142,
     "timeYear": 113,
     "dailyMinutesDown": {}
   },
@@ -167,7 +168,7 @@
     "time": 177,
     "timeDay": 159,
     "timeWeek": 171,
-    "timeMonth": 191,
+    "timeMonth": 189,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2023-01-07": 18,
@@ -188,7 +189,7 @@
     "time": 151,
     "timeDay": 137,
     "timeWeek": 82,
-    "timeMonth": 147,
+    "timeMonth": 146,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2022-07-28": 32
@@ -208,7 +209,7 @@
     "time": 140,
     "timeDay": 171,
     "timeWeek": 98,
-    "timeMonth": 147,
+    "timeMonth": 146,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2022-07-28": 32
