@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 42,
-    "timeWeek": 127,
-    "timeMonth": 133,
+    "timeDay": 205,
+    "timeWeek": 140,
+    "timeMonth": 138,
     "timeYear": 116,
     "dailyMinutesDown": {}
   },
@@ -22,15 +22,15 @@
     "url": "https://ravelloh.gitee.io",
     "icon": "https://icons.duckduckgo.com/ip3/ravelloh.gitee.io.ico",
     "slug": "gitee-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "59.35%",
+    "uptimeDay": "59.34%",
     "uptimeWeek": "90.20%",
     "uptimeMonth": "96.50%",
-    "uptimeYear": "99.39%",
-    "time": 1351,
-    "timeDay": 2280,
-    "timeWeek": 1769,
+    "uptimeYear": "99.40%",
+    "time": 1349,
+    "timeDay": 2286,
+    "timeWeek": 1785,
     "timeMonth": 1537,
     "timeYear": 1301,
     "dailyMinutesDown": {
@@ -73,7 +73,7 @@
       "2023-03-06": 21,
       "2023-03-05": 23,
       "2023-02-27": 91,
-      "2023-02-26": 107
+      "2023-02-26": 82
     }
   },
   {
@@ -88,10 +88,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 201,
-    "timeDay": 70,
+    "timeDay": 231,
     "timeWeek": 157,
-    "timeMonth": 154,
-    "timeYear": 207,
+    "timeMonth": 159,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2022-06-30": 34,
       "2022-06-21": 49
@@ -109,8 +109,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.09%",
     "time": 176,
-    "timeDay": 100,
-    "timeWeek": 107,
+    "timeDay": 77,
+    "timeWeek": 112,
     "timeMonth": 97,
     "timeYear": 184,
     "dailyMinutesDown": {
@@ -134,8 +134,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 43,
-    "timeWeek": 167,
+    "timeDay": 41,
+    "timeWeek": 153,
     "timeMonth": 109,
     "timeYear": 115,
     "dailyMinutesDown": {}
@@ -152,10 +152,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 177,
-    "timeDay": 62,
+    "timeDay": 111,
     "timeWeek": 139,
-    "timeMonth": 198,
-    "timeYear": 179,
+    "timeMonth": 196,
+    "timeYear": 178,
     "dailyMinutesDown": {
       "2023-01-07": 18,
       "2022-07-13": 26
@@ -173,9 +173,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 149,
-    "timeDay": 58,
-    "timeWeek": 115,
-    "timeMonth": 110,
+    "timeDay": 82,
+    "timeWeek": 123,
+    "timeMonth": 108,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2022-07-28": 32
@@ -192,11 +192,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 139,
-    "timeDay": 96,
-    "timeWeek": 103,
-    "timeMonth": 110,
-    "timeYear": 143,
+    "time": 140,
+    "timeDay": 441,
+    "timeWeek": 163,
+    "timeMonth": 122,
+    "timeYear": 144,
     "dailyMinutesDown": {
       "2022-07-28": 32
     }
