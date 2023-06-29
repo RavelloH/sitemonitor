@@ -14,7 +14,7 @@
     "timeDay": 130,
     "timeWeek": 92,
     "timeMonth": 83,
-    "timeYear": 114,
+    "timeYear": 115,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ravelloh.gitee.io.ico",
     "slug": "gitee-site",
     "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "98.93%",
+    "uptime": "99.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "98.96%",
     "uptimeYear": "99.34%",
     "time": 1334,
     "timeDay": 697,
     "timeWeek": 1657,
     "timeMonth": 1255,
-    "timeYear": 1312,
+    "timeYear": 1311,
     "dailyMinutesDown": {
-      "2023-06-28": 14,
       "2023-06-24": 22,
       "2023-06-19": 20,
       "2023-06-17": 73,
@@ -81,7 +80,7 @@
       "2023-03-24": 48,
       "2023-03-21": 106,
       "2023-03-20": 161,
-      "2023-03-19": 37
+      "2023-03-19": 56
     }
   },
   {
@@ -157,7 +156,7 @@
     "timeDay": 29,
     "timeWeek": 104,
     "timeMonth": 121,
-    "timeYear": 177,
+    "timeYear": 178,
     "dailyMinutesDown": {
       "2023-01-07": 18,
       "2022-07-13": 26
