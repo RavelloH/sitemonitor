@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 64,
-    "timeWeek": 70,
-    "timeMonth": 101,
+    "timeDay": 33,
+    "timeWeek": 58,
+    "timeMonth": 98,
     "timeYear": 115,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.34%",
-    "time": 1315,
-    "timeDay": 2929,
-    "timeWeek": 2183,
-    "timeMonth": 1492,
-    "timeYear": 1324,
+    "time": 1316,
+    "timeDay": 2434,
+    "timeWeek": 2211,
+    "timeMonth": 1530,
+    "timeYear": 1325,
     "dailyMinutesDown": {
       "2023-07-23": 19,
       "2023-07-16": 22,
@@ -97,9 +97,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 176,
-    "timeWeek": 92,
+    "time": 196,
+    "timeDay": 75,
+    "timeWeek": 89,
     "timeMonth": 128,
     "timeYear": 169,
     "dailyMinutesDown": {}
@@ -116,9 +116,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 172,
-    "timeDay": 97,
-    "timeWeek": 94,
-    "timeMonth": 123,
+    "timeDay": 54,
+    "timeWeek": 85,
+    "timeMonth": 121,
     "timeYear": 153,
     "dailyMinutesDown": {}
   },
@@ -134,9 +134,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 45,
-    "timeWeek": 66,
-    "timeMonth": 99,
+    "timeDay": 28,
+    "timeWeek": 57,
+    "timeMonth": 96,
     "timeYear": 115,
     "dailyMinutesDown": {}
   },
@@ -152,9 +152,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 42,
-    "timeWeek": 88,
-    "timeMonth": 118,
+    "timeDay": 168,
+    "timeWeek": 94,
+    "timeMonth": 120,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2023-01-07": 18
@@ -172,13 +172,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 147,
-    "timeDay": 166,
-    "timeWeek": 160,
-    "timeMonth": 184,
+    "timeDay": 26,
+    "timeWeek": 145,
+    "timeMonth": 181,
     "timeYear": 140,
-    "dailyMinutesDown": {
-      "2022-07-28": 32
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "VercelDevSite",
@@ -192,12 +190,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 135,
-    "timeDay": 43,
-    "timeWeek": 74,
-    "timeMonth": 111,
+    "timeDay": 71,
+    "timeWeek": 65,
+    "timeMonth": 109,
     "timeYear": 141,
-    "dailyMinutesDown": {
-      "2022-07-28": 32
-    }
+    "dailyMinutesDown": {}
   }
 ]
